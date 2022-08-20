@@ -21,16 +21,16 @@ body {
 h1 a {
     font-size: 50px;
     font-weight: 100;
-    color: #861BBF;
+    color: #8d3eb8;
     text-decoration: none;
 }
 
 #searchBox {
     float: right;
-    background: linear-gradient(#E4F2B9, #B7E953);
-    background: -webkit-linear-gradient(#E4F2B9, #B7E953);
-    background: -o-linear-gradient(#E4F2B9, #B7E953);
-    background: -moz-linear-gradient(#E4F2B9, #B7E953);
+    background: linear-gradient(#080808, #ff0000);
+    background: -webkit-linear-gradient(#080808, #ff0000);
+    background: -o-linear-gradient(#080808, #ff0000);
+    background: -moz-linear-gradient(#080808, #ff0000);
     width: 400px;
     height: 50px;
     padding: 20px 20px 0 20px;
@@ -63,10 +63,10 @@ h1 a {
 
 #menu {
     height: 70px;
-    background: linear-gradient(#fa0202, #f3ef00);
-    background: -webkit-linear-gradient(#fa0202, #f3ef00);
-    background: -o-linear-gradient(#fa0202, #f3ef00);
-    background: -moz-linear-gradient(#fa0202, #f3ef00);
+    background: linear-gradient(#080808, #ff0000);
+    background: -webkit-linear-gradient(#080808, #ff0000);
+    background: -o-linear-gradient(#080808, #ff0000);
+    background: -moz-linear-gradient(#080808, #ff0000);
     padding: 7px 0;
 }
 
@@ -89,7 +89,7 @@ ul {
     text-decoration: none;
     text-transform: uppercase;
     font-size: 17px;
-    color: #5d12e7;
+    color: #f7f7f7;
     line-height: 30px;
     -webkit-transition: font-size 0.3s ease;
     -moz-transition: font-size 0.3s ease;
@@ -106,10 +106,10 @@ ul {
 }
 
 #introduction {
-    background: linear-gradient(#080808, #fefffd);
-    background: -webkit-linear-gradient(#080808, #fefffd);
-    background: -o-linear-gradient(#080808, #fefffd);
-    background: -moz-linear-gradient(#080808, #fefffd);
+    background: linear-gradient(#080808, #ff0000);
+    background: -webkit-linear-gradient(#080808, #ff0000);
+    background: -o-linear-gradient(#080808, #ff0000);
+    background: -moz-linear-gradient(#080808, #ff0000);
     padding: 30px;
     margin: 16px 0;
 }
@@ -189,3 +189,4 @@ ul {
     padding: 10px 30px;
     margin-top: 15px
 }
+
